@@ -64,6 +64,3 @@ This project is distributed under a Recognition Required License. See `LICENSE.m
 - Permissions: free for personal and commercial use; modifiable and redistributable.
 - Condition: attribution to the original author is required.
 
----
-
-If you'd like, I can also expand the README with deployment instructions, API documentation for the AI endpoints, or a short architecture diagram. Let me know which you'd prefer next.
